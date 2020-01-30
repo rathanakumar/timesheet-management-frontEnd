@@ -1,2 +1,7 @@
 # timesheet-management-frontEnd
-The Repository for the Angular Application for the Timesheet Management
+A Repository for Timesheet Management Application.
+
+Technologies used:
+1. Angular - frontEnd
+2. SpringBoot - API
+3. DB - MySQL
